@@ -29,9 +29,10 @@ Se quiser trocar uma ideia, dar algumas dicas ou dizer um simples “oi!”, é 
 
 ## ✉️ Contato
 
-[![Github](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Bekah-Soares/Bekah-Soares)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](https://bekah.soaresx@gmail.com)
-[![LinkdIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rebeca-soares-fernandes-campos-14b0ab312)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)]() <p>bekah.soaresx@gmail.com</p>
+<br>
+
+[![LinkdIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]() <p>https://www.linkedin.com/in/rebeca-soares-fernandes-campos-14b0ab312</p>
 <br><br><br>
 
 ## 
